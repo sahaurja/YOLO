@@ -8,7 +8,6 @@ Following are links to images in google drive:
 ## Custom dataset annotated with YOLOV3 bounding boxes:
 
 
-link: https://drive.google.com/drive/folders/1osL4PbckW9i0UmE_rrR8hkfD_m47cHaM?usp=sharing
 
 
 ## Custom dataset PlaneRCNN:

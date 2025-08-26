@@ -8,7 +8,7 @@ Custom dataset annotated with YOLOV3 bounding boxes:
 Process my dataset images and run it through Midas and get depth images.
 Process my dataset through the PlanerCNN model and get planer images
 
-
+https://github.com/sahaurja/YOLO/blob/main/Planar_CNN_urja.ipynb
 link: https://drive.google.com/drive/folders/1526b74aU3cgo02hsDgOW5YZgnkndVaWa?usp=sharing
 
  

@@ -1,6 +1,10 @@
 # YOLO Hard hat identification from a video
 
 Custom dataset annotated with YOLOV3 bounding boxes:
+The custom data set contains 3590 images of people wearing hard-hat, vest, mask and boots. 
+Some images contain combination of hard-hat, vest, mask and boots.
+
+
 https://github.com/sahaurja/YOLO/blob/main/YoloV3Sample_urja.ipynb
 
 

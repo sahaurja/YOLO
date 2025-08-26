@@ -1,19 +1,12 @@
-# YOLO
-Yolo hard hat identification and Planar CNN
+# YOLO Hard hat identification from a video
 
-Following are links to images in google drive:
-
- 
-
-## Custom dataset annotated with YOLOV3 bounding boxes:
-
-
+Custom dataset annotated with YOLOV3 bounding boxes:
 
 
 ## Custom dataset PlaneRCNN:
 
-
-Depth map had been removed.
+Process my dataset images and run it through Midas and get depth images.
+Process my dataset through the PlanerCNN model and get planer images
 
 
 link: https://drive.google.com/drive/folders/1526b74aU3cgo02hsDgOW5YZgnkndVaWa?usp=sharing
@@ -25,8 +18,4 @@ link: https://drive.google.com/drive/folders/1526b74aU3cgo02hsDgOW5YZgnkndVaWa?u
 
 link: https://drive.google.com/drive/folders/17TQZYPQ9wCL3VCfsDt4NR7sL_28CZc5g?usp=sharingLinks to an external site.
 
- 
 
-Additionally, following is link to github repo README.md:
-
-https://github.com/tapasML/EVAB2_Session_14/blob/main/README.md
